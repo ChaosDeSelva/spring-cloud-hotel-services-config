@@ -1,0 +1,1 @@
+# spring-cloud-hotel-services-config
